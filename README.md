@@ -22,6 +22,4 @@ To play the game, simply open the deployed version in your browser. No installat
 
 Contributions are welcome! Fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License 
