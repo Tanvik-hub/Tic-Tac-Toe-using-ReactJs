@@ -18,8 +18,5 @@
 To play the game, simply open the deployed version in your browser. No installation is required.
 
 
-## Contributing
-
-Contributions are welcome! Fork the repository and submit a pull request.
-
+play the game here-https://tic-tac-toe-using-react-js-three.vercel.app/
 
